@@ -1,6 +1,7 @@
 import Title from "./components/Title/Title";
 import DetailImage from "./components/DetailImage/DetailImage";
 import Info from "./components/Info/Info";
+import ProgressArea from "./components/ProgressArea/ProgressArea";
 import Controls from "./components/Controls/Controls";
 import "./App.scss";
 
@@ -10,6 +11,7 @@ function App() {
       <Title />
       <DetailImage />
       <Info />
+      <ProgressArea />
       <Controls />
     </div>
   );
