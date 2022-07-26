@@ -1,10 +1,10 @@
 import "./DetailImage.scss";
-import img1 from "../../images/image1.jpg";
+import img3 from "../../images/image3.jpg";
 
 function DetailImage() {
   return (
     <div className="image_area">
-      <img src={img1} alt="" />
+      <img src={img3} alt="" />
     </div>
   );
 }
