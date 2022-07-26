@@ -1,10 +1,9 @@
-# Getting Started with Create React App
+## Music Player
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Draft
 
-## Available Scripts
-
-In the project directory, you can run:
+<img src="./draft1.JPG" width="200" alt="초안">
+<img src="./draft2.JPG" width="200" alt="초안">
 
 ### `npm start`
 
