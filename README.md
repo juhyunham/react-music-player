@@ -2,8 +2,8 @@
 
 Draft
 
-<img src="./draft1.JPG" width="200" alt="초안">
-<img src="./draft2.JPG" width="200" alt="초안">
+<img src="./draft1.JPG" width="300" alt="초안">
+<img src="./draft2.JPG" width="300" alt="초안">
 
 ### `npm start`
 
