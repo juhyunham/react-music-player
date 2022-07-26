@@ -1,0 +1,29 @@
+.control_area {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 40px 0 5px 0;
+
+  .volume_container {
+    display: flex;
+    align-items: center;
+
+    input {
+      &[type="range"] {
+        width: 75px;
+        height: 4px;
+        background-color: #d75281;
+        outline-color: transparent;
+        accent-color: #d75281;
+      }
+
+      &:focus {
+        outline-color: transparent;
+      }
+    }
+  }
+
+  svg {
+    color: #898aa6;
+  }
+}
