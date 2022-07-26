@@ -1,0 +1,16 @@
+#root {
+  display: grid;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.music_container {
+  width: 400px;
+  padding: 25px 30px;
+  overflow: hidden;
+  position: relative;
+  border-radius: 15px;
+  border: 2px solid #b93160;
+  background-color: #fff;
+}
