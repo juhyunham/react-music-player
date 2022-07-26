@@ -3,6 +3,7 @@ import DetailImage from "./components/DetailImage/DetailImage";
 import Info from "./components/Info/Info";
 import ProgressArea from "./components/ProgressArea/ProgressArea";
 import Controls from "./components/Controls/Controls";
+import PlayList from "./components/PlayList/PlayList";
 import "./App.scss";
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Info />
       <ProgressArea />
       <Controls />
+      <PlayList />
     </div>
   );
 }
