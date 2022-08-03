@@ -48,7 +48,21 @@ const playList = [
   },
 ];
 
-const initialState = {
+export interface initialStateProps {
+  playList: {
+    name: string;
+    artist: string;
+    img: string;
+    src: any;
+    id: number;
+  }[];
+  currentMusicId: number;
+  currentIndex: number;
+  playing: boolean;
+  repeat: string;
+}
+
+export const initialState = {
   playList,
   currentMusicId: playList[0].id,
   currentIndex: 0,
